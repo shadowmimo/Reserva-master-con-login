@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ulises\AndroidStudioProjects\Reserva-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2dc3760e2c918af204e1bd3330f5012a2d74bc55">
+        <dex dex="C:\Users\Ulises\AndroidStudioProjects\Reserva-master\app\build\intermediates\pre-dexed\debug\instant-run_410d73dac894f971f419750fc7da9a15974341dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ulises\AndroidStudioProjects\Reserva-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Ulises\AndroidStudioProjects\Reserva-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.0.0_93e250db52f60f03b24a067df60c1ef36a09c6e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ulises\AndroidStudioProjects\Reserva-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d7d677ac46d33759d8ce18d6de96aa9300cc499e">
+        <dex dex="C:\Users\Ulises\AndroidStudioProjects\Reserva-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_da7331a8cedc6de36c08c56f1df8bf3a148138d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ulises\AndroidStudioProjects\Reserva-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Ulises\AndroidStudioProjects\Reserva-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0_e75e8ba15c5b911bd581db1d203062ab66353668.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ulises\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Ulises\AndroidStudioProjects\Reserva-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0_2f3ad0b3b07704c7d623eaabb316db2d094075b9.jar" />
+    </item>
+
+</items>
